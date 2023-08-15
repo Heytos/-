@@ -51,3 +51,4 @@ def create_figure():
         return 'Проверьте написание вашей фигуры'
 
 print(create_figure())
+
